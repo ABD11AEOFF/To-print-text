@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import './input.css'
+import './Input.css'
 
 const Input = () => {
   const [todos, setTodos] = useState([]);
